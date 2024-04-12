@@ -1,0 +1,7 @@
+---
+base: lua51
+
+globals:
+  vim:
+    any: true
+    background_opacity: 0.9
