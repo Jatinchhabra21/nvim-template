@@ -15,6 +15,13 @@ require("lazy").setup({
     lazy=false
   },
   {
+    "davidosomething/format-ts-errors.nvim",   
+},
+  {
+  "folke/trouble.nvim",
+ dependencies = { "nvim-tree/nvim-web-devicons" },
+  },
+  {
     "tribela/vim-transparent",
     cmd={"TransparentEnable", "TransparentDisable"},
   },

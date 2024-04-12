@@ -82,12 +82,4 @@ return {
       )
     end,
   },
-  {
-    "wakatime/vim-wakatime",
-    lazy=false,
-  },
-  {
-    "tribela/vim-transparent",
-    lazy=false
-  }
 }
